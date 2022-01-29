@@ -1,0 +1,73 @@
+h1{ font-style: italic; font-size: 30px;}
+
+h2{ font-style: italic; font-size: 30px;}
+
+p{ font-size: 20px;}
+
+li{ font-size: 20px }  
+
+ol{list-style-type: upper-roman;}
+
+body{font-family: Helvetica, Arial, sans-serif;}
+
+a{text-decoration:none;}
+
+footer a, footer p{font-size: 10px; }
+
+#FanFan{background-color: black;
+width: 300px; 
+padding: 60px;
+margin: 40px;
+}
+#FanFan h1{font-size: 16px; color: #fff}
+#FanFan a{font-size: 14px; color: lightgray}
+#FanFan a:hover{background-color: red}
+
+#FanFan2{display: flex;
+justify-content: flex-end;
+transform: translateY(-200px);
+}
+#b1{background-color: red}
+#b2{background-color: palegreen}
+#b3{background-color: aquamarine}
+#b4{background-color: pink}
+#b5{background-color: white}
+
+
+#454{font-size: 16px;
+display: flex;
+justify-content: flex-end;}
+
+#input{background-color: darkorange; font-size: 20px; color: #fff; border: 0; border-radius: 0; transform: translateX(700px)}
+#input:hover{background-color: red;}
+
+.img-align{text-align: center;}
+
+.imagens-pequenas{width: 100px;}
+
+.fundo-azul-transparencia{background-color: #C1E9FC; margin: 50px}
+
+#Beginner{background-color: #0492C2; width: 100%; height: 100px; margin-top: -26px}
+#Beginner h1{text-align: center; font-size: 40px; color: #fff}
+
+#Legenda{font-size: 10px}
+
+nav{float: left; 
+background-color: black;}
+nav ul{padding: 2px; list-style: none}
+nav li{display: inline;}
+nav li:hover{background-color: red}
+nav a{text-decoration: none; color: #fff; padding-right: 25px}
+
+#Beginning{background-image: url(https://www.melhoresdestinos.com.br/wp-content/uploads/2021/02/concorde-capa2019.jpg); background-position: center, center}
+
+
+#Title{margin-top: 230px; margin-bottom: 250px}
+
+#comments2{display: flex; flex-direction: column}
+
+#comments{display: flex; align-content: space-between; width: 1000px}
+
+#sud_a{float: right;}
+
+
